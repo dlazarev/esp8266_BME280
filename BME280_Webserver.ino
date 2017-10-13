@@ -14,7 +14,7 @@
 Adafruit_BME280 bme; // I2C
 
 // Replace with your network details
-const char* ssid = "name of your ssid";
+const char* ssid = "BOSON24";
 const char* password = "your ssid password";
 float h, t, p, pin, dp;
 char temperatureFString[6];
